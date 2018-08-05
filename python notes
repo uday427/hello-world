@@ -1,0 +1,14 @@
+python notes :
+
+list can contains different objects 
+pop , discard add are common operations 
+sort will not assign the sorted list , needed to write a separate line in order to assign to  it .
+
+
+Dictionary are key value pairs . it is unordered and cannot be sorted
+Dictinoaries can hold lists also  
+
+Tuples are similar to list but they are immutable which means cannot be changed . they are represented inside parenthesis
+ 
+ Sets are  unordered collection  o unique elements 
+ Booleans only convey true or false 
